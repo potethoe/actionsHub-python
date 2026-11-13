@@ -2,8 +2,14 @@ def calculate(num1, operator, num2):
     if operator == "+":
         return num1 + num2
     # TODO: implement subtraction
+    if operator == "-"
+        return num1-num2
     # TODO: implement multiplication
+    if operator == "*"
+        return num1*num2
     # TODO: implement division
+    if operator == "/"
+        return num1/num2
     else:
         return None
 
